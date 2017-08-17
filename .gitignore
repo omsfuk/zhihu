@@ -2,3 +2,8 @@ target
 out
 .idea
 zhihu.iml
+zhihu/build
+zhihu/node_modules
+zhihu/test
+zhihu/.idea
+
